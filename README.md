@@ -1,4 +1,4 @@
 helloGithub
 ===========
 
-This is a modifications make this work
+This is a modifications
